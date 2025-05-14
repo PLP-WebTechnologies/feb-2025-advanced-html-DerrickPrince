@@ -117,4 +117,5 @@
         Your browser does not support the video element.
     </video>
 </body>
+
 </html>git add registration_form.html
